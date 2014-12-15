@@ -1,0 +1,10 @@
+{
+  "name": "Storyboard Sample",
+  "package": "com.defrac.sample",
+  "identifier": "storyboard",
+  "main": "com.defrac.sample.storyboard.StoryboardSample",
+  "version": "1.0",
+  "targets": [
+    "ios"
+  ]
+}
